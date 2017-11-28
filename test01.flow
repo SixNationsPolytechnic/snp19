@@ -1,0 +1,1 @@
+[{"id":"3f5ae9d6.4a7e66","type":"inject","z":"107c9b7f.053b65","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"x":201,"y":236,"wires":[["c75956dc.de0238"]]},{"id":"c75956dc.de0238","type":"debug","z":"107c9b7f.053b65","name":"","active":true,"console":"false","complete":"false","x":398,"y":371,"wires":[]}]
